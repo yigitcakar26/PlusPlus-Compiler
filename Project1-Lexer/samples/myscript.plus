@@ -1,0 +1,8 @@
+number size;
+number sum;
+size:=5;
+repeat size times     *ignore me, I am a comment*
+{ write size and newline;  *print to screen*
+  sum+=size;
+}
+write newline and "Sum:" and sum;

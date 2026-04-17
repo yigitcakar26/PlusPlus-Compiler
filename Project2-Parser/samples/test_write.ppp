@@ -1,0 +1,3 @@
+write "Hello," and "world!" and newline;
+write "This is line 1." and newline and "This is line 2." and newline;
+write "1 + 1 = " and 2 and newline;

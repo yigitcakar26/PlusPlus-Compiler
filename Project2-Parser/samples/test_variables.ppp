@@ -1,0 +1,10 @@
+number a;
+number b;
+number result;
+
+a := 12345;
+b := -67890;
+result := a;
+result += b;
+
+write "Result is:" and result and newline;

@@ -1,0 +1,9 @@
+number i;
+i := 4;
+
+repeat i times
+{
+    write "Iteration:" and i and newline;
+}
+
+write "Final value of i:" and i and newline;

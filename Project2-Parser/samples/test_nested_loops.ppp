@@ -1,0 +1,14 @@
+number outer;
+number inner;
+
+outer := 2;
+
+repeat outer times
+{
+    write "Outer loop value:" and outer and newline;
+    inner := 3;
+    repeat inner times
+    {
+        write "Inner loop value:" and inner and newline;
+    }
+}
